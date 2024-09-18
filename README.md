@@ -21,8 +21,8 @@
 ---
 
 ### GitHub Stats 📊
-![Adrian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Adrian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianCaleroBarrero&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianCaleroBarrero&layout=compact&theme=radical)
 
 ---
 
